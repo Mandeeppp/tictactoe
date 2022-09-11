@@ -1,0 +1,13 @@
+.Block{
+  width: 150px;
+  height: 150px;
+  border: 5px solid black;
+  background-size: cover;
+  display: inline-block;
+}
+.dot{
+  background-image: url(https://th.bing.com/th/id/R.7737a7b0a87981dc12963841af628ab0?rik=ziBcRnatVvGgRA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-rR4j_oEo8d8%2fUSWw9g8pCVI%2fAAAAAAAAAJw%2fKlrELgXQhy4%2fs1600%2fCircle%2blarge.jpg&ehk=wtOCXQYh4fz8n%2bPkS77ImuwKbT8N5AtJw1vHQ0Nhbk8%3d&risl=&pid=ImgRaw&r=0);
+}
+.cross {
+  background-image: url(https://th.bing.com/th/id/R.b18137b37a8ab3f47c90d682923cab79?rik=dIbd%2bSCegs7Vtw&riu=http%3a%2f%2fclipart-library.com%2fimg1%2f300354.gif&ehk=G63GtbYct2VNEUwKNg7ROdZ2cmInv8LKn1u%2f0cqbJdo%3d&risl=&pid=ImgRaw&r=0);
+}
